@@ -2,7 +2,8 @@
 layout: default
 title: Reto's Blog
 ---
-	<h2>{{ page.title }}</h2>
+	#### Reto's blog
+
 	<ul class="posts">
 
 	  {% for post in site.posts %}
