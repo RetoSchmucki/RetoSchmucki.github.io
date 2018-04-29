@@ -3,19 +3,12 @@ layout: default
 title: Publications
 ---
 
-## Publications
-1. something here
-2. and two...
+###### Publications
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-<title>Bibliography</title>
-</head>
-<body>
-<div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
-  <div class="csl-entry">Audusseau, H., Le Vaillant, M., Janz, N., Nylin, S., Karlsson, B., &amp; Schmucki, R. (2017). Species range expansion constrains the ecological niches of resident butterflies. <i>Journal of Biogeography</i>, <i>44</i>(1), 28–38. doi:<a href="https://doi.org/10.1111/jbi.12787">10.1111/jbi.12787</a></div>
-  <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=info%3Adoi%2F10.1111%2Fjbi.12787&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Species%20range%20expansion%20constrains%20the%20ecological%20niches%20of%20resident%20butterflies&amp;rft.jtitle=Journal%20of%20Biogeography&amp;rft.stitle=J.%20Biogeogr.&amp;rft.volume=44&amp;rft.issue=1&amp;rft.aufirst=H%C3%A9l%C3%A8ne&amp;rft.aulast=Audusseau&amp;rft.au=H%C3%A9l%C3%A8ne%20Audusseau&amp;rft.au=Maryline%20Le%20Vaillant&amp;rft.au=Niklas%20Janz&amp;rft.au=S%C3%B6ren%20Nylin&amp;rft.au=Bengt%20Karlsson&amp;rft.au=Reto%20Schmucki&amp;rft.date=2017-01-01&amp;rft.pages=28-38&amp;rft.spage=28&amp;rft.epage=38&amp;rft.issn=1365-2699&amp;rft.language=en"></span>
-</div></body>
-</html>
+Ridding, L. E., Redhead, J. W., Oliver, T. H., **Schmucki, R.**, McGinlay, J., Graves, A. R., Morris, J., Bradbury, R.B., King, H., Bullock, J. M. (2018). The importance of landscape characteristics for the delivery of cultural ecosystem services. Journal of Environmental Management, 206, 1145–1154. [doi:10.1016/j.jenvman.2017.11.066]("https://doi.org/10.1016/j.jenvman.2017.11.066")
+
+Mills, S. C., Oliver, T. H., Bradbury, R. B., Gregory, R. D., Brereton, T., Kühn, E., Kuussaari, M., Musche, M., Roy D.B., **Schmucki, R.**, Stefanescu, C., van Swaay, C., Evans, K.L., Borregaard, M. (2017). European butterfly populations vary in sensitivity to weather across their geographical ranges. Global Ecology and Biogeography, 26(12), 1374–1385. [doi:10.1111/geb.12659]("https://doi.org/10.1111/geb.12659")
+
+Audusseau, H., Le Vaillant, M., Janz, N., Nylin, S., Karlsson, B., & **Schmucki, R.** (2017). Species range expansion constrains the ecological niches of resident butterflies. Journal of Biogeography, 44(1), 28–38. [doi:10.1111/jbi.12787]("https://doi.org/10.1111/jbi.12787")
+
+**Schmucki, R.**, Pe’er, G., Roy, D. B., Stefanescu, C., Van Swaay, C. A. M., Oliver, T. H.,Kuussaari, M., Van Strien, A.J., Ries, L., Settele, J., Musche, M., Carnicer, J., Schweiger, O., Brereton, T.M., Harpke, A., Heliölä, J., Kühn, E.,  Julliard, R. (2016). A regionally informed abundance index for supporting integrative analyses across butterfly monitoring schemes. Journal of Applied Ecology, 53(2), 501–510. [doi:10.1111/1365-2664.12561]("https://doi.org/10.1111/1365-2664.12561")
