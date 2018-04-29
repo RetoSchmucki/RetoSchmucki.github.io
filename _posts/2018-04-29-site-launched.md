@@ -7,25 +7,8 @@ date: "2018-04-29"
 Well... not much to say yet.
 
 
-{% highlight ruby linenos %}
-def show
-  @widget = Widget(params[:id])
-  respond_to do |format|
-    format.html # show.html.erb
-    format.json { render json: @widget }
-  end
-end
-{% endhighlight %}
-
-``` r
-
-   a <- c(1,3)
-   x <- 3*a
-
-```
-
-
-{% highlight r linenos %}
-a <- c(1,3)
-x <- 3*a
+{% highlight r linenos %}  
+  a <- c(1,3)
+  x <- 3*a
+  plot(a,x,main="scatterplot")
 {% endhighlight %}
