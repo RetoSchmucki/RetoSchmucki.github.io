@@ -8,7 +8,7 @@ Well... not much to say yet.
 
 ```r
 ## test R script
-a <- rnorm(1:10,100)
-b <- rnorm(1:10,100)
+a <- rnorm(100,100,1)
+b <- rnorm(100,100,1)
 plot(a,b)
 ```
