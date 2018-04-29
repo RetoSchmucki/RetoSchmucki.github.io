@@ -1,4 +1,4 @@
 name: Reto Schmucki
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:titlehighlighter:
+permalink: /blog/:year/:month/:day/:title
 highlighter: rouge
