@@ -18,7 +18,7 @@ nav ul li, footer ul li { display: inline; margin-right: 20px; }
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 
 /* Blog */
-ul.posts { margin: 20px auto 40px; font-size: 1.5em; font-family: 'Helvetica', 'Arial', 'Sans-Serif';  }
+ul.posts { margin: 20px auto 40px; font-size: 1.2em; font-family: 'Helvetica', 'Arial', 'Sans-Serif';  }
 ul.posts li { list-style: none; }
 
 /* CV */
@@ -29,5 +29,5 @@ ul.posts li { list-style: none; }
 .cv address, .cv p { font-size: 1.2em; }
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
 
-.img-circle { width: 150px; height: 150px; border-radius: 50%;     display: block; margin: 0 auto; }
+.img-circle { width: 150px; height: 150px; border-radius: 60%;     display: block; margin: 0 auto; }
 .blurb { text-align: center }
