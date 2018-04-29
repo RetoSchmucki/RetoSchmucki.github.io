@@ -12,10 +12,8 @@ Well... not much to say yet.
     b <- rnorm(100,100,1)
     plot(a,b)
 ```
-{% highlight r %}
-
-    a <- rnorm(100,100,1)
-    b <- rnorm(100,100,1)
-    plot(a,b)
-
+{% highlight R %}
+a <- rnorm(100,100,1)
+b <- rnorm(100,100,1)
+plot(a,b)
 {% endhighlight %}
