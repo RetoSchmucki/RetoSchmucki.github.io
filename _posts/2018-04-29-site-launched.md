@@ -16,3 +16,16 @@ def show
   end
 end
 {% endhighlight %}
+
+``` r
+
+   a <- c(1,3)
+   x <- 3*a
+
+```
+
+
+{% highlight r linenos %}
+a <- c(1,3)
+x <- 3*a
+{% endhighlight %}
