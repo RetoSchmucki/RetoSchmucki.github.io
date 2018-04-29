@@ -7,7 +7,7 @@ date: 2018-04-29
 Well... not much to say yet.
 
 ```r
-## test R script
+## R script
 a <- rnorm(100,100,1)
 b <- rnorm(100,100,1)
 plot(a,b)
