@@ -5,6 +5,8 @@ title: Publications
 
 #### Publications
 
+Spake, R., Bellamy, C., Graham, L.J., Watts, K., Wilson, T., Norton, L.R., Wood, C.M., Schmucki, R., Bullock, J.M. & Eigenbrod, F. (2019) An analytical framework for spatially targeted management of natural capital. Nature Sustainability, 2, 90–97. [https://doi.org/10.1038/s41893-019-0223-4](https://www.nature.com/articles/s41893-019-0223-4.epdf?author_access_token=_2YdsGVgx6ecAGU75zGEntRgN0jAjWel9jnR3ZoTv0O105koIC-Nl6y6hb_0WHQZN-HVpkhPkAHqhRh7JKkSTM0KwDfm5Nq-Q6YOKLdW5Zvg3skCUUpCWjD7w-7icn7emM8N-5vucjNDXlkvOyMzLw%3D%3D)
+
 Ridding, L. E., Redhead, J. W., Oliver, T. H., **Schmucki, R.**, McGinlay, J., Graves, A. R., Morris, J., Bradbury, R.B., King, H., Bullock, J. M. (2018). *The importance of landscape characteristics for the delivery of cultural ecosystem services.* Journal of Environmental Management, 206, 1145–1154. [doi:10.1016/j.jenvman.2017.11.066](https://doi.org/10.1016/j.jenvman.2017.11.066)
 
 Mills, S. C., Oliver, T. H., Bradbury, R. B., Gregory, R. D., Brereton, T., Kühn, E., Kuussaari, M., Musche, M., Roy D.B., **Schmucki, R.**, Stefanescu, C., van Swaay, C., Evans, K.L., Borregaard, M. (2017). *European butterfly populations vary in sensitivity to weather across their geographical ranges.* Global Ecology and Biogeography, 26(12), 1374–1385. [doi:10.1111/geb.12659](https://doi.org/10.1111/geb.12659)
